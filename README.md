@@ -1,2 +1,2 @@
-# Xing-Feng
+# XingFeng
 Freda
