@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-01-23T11:42:24Z"/>
+
+  <node id="911189370" lat="51.5304020" lon="-0.1237303">
+    <tag k="access" v="yes"/>
+    <tag k="check_date:wheelchair" v="2020-10-17"/>
+    <tag k="door" v="yes"/>
+    <tag k="entrance" v="yes"/>
+    <tag k="level" v="0;-1"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Lift at the right hand side of the stairwell goes between street level, ticket hall (Level -1) and barrier level (Level -2)."/>
+  </node>
+  <node id="948933137" lat="51.5240603" lon="-0.1181211"/>
+  <node id="948933138" lat="51.5243129" lon="-0.1182904"/>
+  <node id="948933152" lat="51.5245022" lon="-0.1177365"/>
+  <node id="948933185" lat="51.5242083" lon="-0.1175075"/>
+  <node id="1116197798" lat="51.5306885" lon="-0.1242853"/>
+  <node id="1116197799" lat="51.5305488" lon="-0.1242385"/>
+  <node id="1116197802" lat="51.5306900" lon="-0.1243201"/>
+  <node id="1116197803" lat="51.5306199" lon="-0.1244286"/>
+  <node id="1116197805" lat="51.5305137" lon="-0.1243142"/>
+  <node id="1116197806" lat="51.5306279" lon="-0.1242108"/>
+  <node id="1116197807" lat="51.5305931" lon="-0.1242142"/>
+  <node id="1116197808" lat="51.5305509" lon="-0.1243881"/>
+  <node id="1116197809" lat="51.5306493" lon="-0.1244188"/>
+  <node id="1116197810" lat="51.5306718" lon="-0.1242397"/>
+  <node id="1116197812" lat="51.5306795" lon="-0.1243807"/>
+  <node id="1116197813" lat="51.5305167" lon="-0.1243312"/>
+  <node id="1116197814" lat="51.5305966" lon="-0.1244233"/>
+  <node id="1218966850" lat="51.5173869" lon="-0.1230665"/>
+  <node id="1262302306" lat="51.5305134" lon="-0.1242967"/>
+  <node id="1262302309" lat="51.5306676" lon="-0.1244012"/>
+  <node id="1262302316" lat="51.5305725" lon="-0.1244116"/>
+  <node id="1262302347" lat="51.5306848" lon="-0.1242660"/>
+  <node id="1262302401" lat="51.5306863" lon="-0.1243554"/>
+  <node id="1262302423" lat="51.5305246" lon="-0.1242656"/>
+  <node id="1262302442" lat="51.5305242" lon="-0.1243508"/>
+  <node id="1262302449" lat="51.5305713" lon="-0.1242222"/>
+  <node id="1262302451" lat="51.5306356" lon="-0.1244271"/>
+  <node id="1262302512" lat="51.5305331" lon="-0.1242537"/>
+  <node id="1262302515" lat="51.5306514" lon="-0.1242204"/>
+  <node id="1262302517" lat="51.5305329" lon="-0.1243670"/>
+  <node id="1262302518" lat="51.5305176" lon="-0.1242780"/>
+  <node id="1700009682" lat="51.5174999" lon="-0.1230914"/>
+  <node id="1700009692" lat="51.5175382" lon="-0.1226418"/>
+  <node id="2425607715" lat="51.5305481" lon="-0.1233853"/>
+  <node id="2425607717" lat="51.5305686" lon="-0.1233831"/>
+  <node id="2425607719" lat="51.5305247" lon="-0.1235692"/>
+  <node id="2425607724" lat="51.5306186" lon="-0.1235358"/>
+  <node id="2425607728" lat="51.5306051" lon="-0.1235629"/>
+  <node id="2425607730" lat="51.5305867" lon="-0.1235813"/>
+  <node id="2425607732" lat="51.5305656" lon="-0.1235888"/>
+  <node id="2425607734" lat="51.5305135" lon="-0.1234192"/>
+  <node id="2425607738" lat="51.5305291" lon="-0.1233977"/>
+  <node id="2425607745" lat="51.5305441" lon="-0.1235846"/>
+  <node id="2425607747" lat="51.5305029" lon="-0.1234475"/>
+  <node id="3077317658" lat="51.5303916" lon="-0.1239569"/>
+  <node id="3077317659" lat="51.5303171" lon="-0.1238779"/>
+  <node id="3077317660" lat="51.5303850" lon="-0.1237123"/>
+  <node id="3077317661" lat="51.5304595" lon="-0.1237912"/>
+  <node id="5466793948" lat="51.5174669" lon="-0.1192296"/>
+  <node id="5466793949" lat="51.5174567" lon="-0.1192253"/>
+  <node id="5466793950" lat="51.5174505" lon="-0.1192633"/>
+  <node id="5466793951" lat="51.5174607" lon="-0.1192676"/>
+  <node id="6277779583" lat="51.5185589" lon="-0.1472311"/>
+  <node id="6277779584" lat="51.5185455" lon="-0.1473090"/>
+  <node id="6277779785" lat="51.5184720" lon="-0.1472763"/>
+  <node id="6277779786" lat="51.5184841" lon="-0.1472057"/>
+  <node id="6277779787" lat="51.5184218" lon="-0.1471780"/>
+  <node id="6277779788" lat="51.5184382" lon="-0.1470829"/>
+  <node id="6277779789" lat="51.5184964" lon="-0.1471087"/>
+  <node id="6277779790" lat="51.5184860" lon="-0.1471689"/>
+  <node id="6277779791" lat="51.5185177" lon="-0.1471830"/>
+  <node id="6277779792" lat="51.5185129" lon="-0.1472106"/>
+  <node id="7126087330" lat="51.5243745" lon="-0.1182546"/>
+  <node id="7993126496" lat="51.5306185" lon="-0.1234354"/>
+  <node id="7993126497" lat="51.5306057" lon="-0.1234095"/>
+  <node id="7993126498" lat="51.5305885" lon="-0.1233915"/>
+  <node id="7993126500" lat="51.5305005" lon="-0.1235126"/>
+  <node id="7993126502" lat="51.5305096" lon="-0.1235442"/>
+  <node id="8993759415" lat="51.5306258" lon="-0.1235029"/>
+  <node id="8993759416" lat="51.5306257" lon="-0.1234681"/>
+  <node id="8993761017" lat="51.5304984" lon="-0.1234798"/>
+  <node id="8993761018" lat="51.5305390" lon="-0.1235806"/>
+  <node id="8993761021" lat="51.5304300" lon="-0.1237599"/>
+  <node id="8993761023" lat="51.5305215" lon="-0.1234082"/>
+  <node id="9140867238" lat="51.5174251" lon="-0.1226170"/>
+  <node id="9140867239" lat="51.5175023" lon="-0.1230630"/>
+  <way id="81446755">
+    <nd ref="948933138"/>
+    <nd ref="7126087330"/>
+    <nd ref="948933152"/>
+    <nd ref="948933185"/>
+    <nd ref="948933137"/>
+    <nd ref="948933138"/>
+    <tag k="landuse" v="grass"/>
+  </way>
+  <way id="96299681">
+    <nd ref="1116197805"/>
+    <nd ref="1262302306"/>
+    <nd ref="1262302518"/>
+    <nd ref="1262302423"/>
+    <nd ref="1262302512"/>
+    <nd ref="1116197799"/>
+    <nd ref="1262302449"/>
+    <nd ref="1116197807"/>
+    <nd ref="1116197806"/>
+    <nd ref="1262302515"/>
+    <nd ref="1116197810"/>
+    <nd ref="1262302347"/>
+    <nd ref="1116197798"/>
+    <nd ref="1116197802"/>
+    <nd ref="1262302401"/>
+    <nd ref="1116197812"/>
+    <nd ref="1262302309"/>
+    <nd ref="1116197809"/>
+    <nd ref="1262302451"/>
+    <nd ref="1116197803"/>
+    <nd ref="1116197814"/>
+    <nd ref="1262302316"/>
+    <nd ref="1116197808"/>
+    <nd ref="1262302517"/>
+    <nd ref="1262302442"/>
+    <nd ref="1116197813"/>
+    <nd ref="1116197805"/>
+    <tag k="building" v="service"/>
+  </way>
+  <way id="157748213">
+    <nd ref="9140867238"/>
+    <nd ref="1700009692"/>
+    <nd ref="9140867239"/>
+    <nd ref="1700009682"/>
+    <nd ref="1218966850"/>
+    <nd ref="9140867238"/>
+    <tag k="building:levels" v="11"/>
+    <tag k="building:part" v="yes"/>
+  </way>
+  <way id="234296717">
+    <nd ref="8993761017"/>
+    <nd ref="7993126500"/>
+    <nd ref="7993126502"/>
+    <nd ref="2425607719"/>
+    <nd ref="8993761018"/>
+    <nd ref="2425607745"/>
+    <nd ref="2425607732"/>
+    <nd ref="2425607730"/>
+    <nd ref="2425607728"/>
+    <nd ref="2425607724"/>
+    <nd ref="8993759415"/>
+    <nd ref="8993759416"/>
+    <nd ref="7993126496"/>
+    <nd ref="7993126497"/>
+    <nd ref="7993126498"/>
+    <nd ref="2425607717"/>
+    <nd ref="2425607715"/>
+    <nd ref="2425607738"/>
+    <nd ref="8993761023"/>
+    <nd ref="2425607734"/>
+    <nd ref="2425607747"/>
+    <nd ref="8993761017"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="303377742">
+    <nd ref="3077317658"/>
+    <nd ref="3077317659"/>
+    <nd ref="3077317660"/>
+    <nd ref="911189370"/>
+    <nd ref="8993761021"/>
+    <nd ref="3077317661"/>
+    <nd ref="3077317658"/>
+    <tag k="building" v="train_station"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="fixme" v="escalator and stairs should be centred in access building. (From GPS, building may be a little off true position.) Building should be joined with round building immediately to NE."/>
+    <tag k="layer" v="0"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="King's Cross St. Pancras Underground Station"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="railway" v="subway_entrance"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="568170906">
+    <nd ref="5466793951"/>
+    <nd ref="5466793950"/>
+    <nd ref="5466793949"/>
+    <nd ref="5466793948"/>
+    <nd ref="5466793951"/>
+  </way>
+  <way id="670365512">
+    <nd ref="6277779583"/>
+    <nd ref="6277779584"/>
+    <nd ref="6277779785"/>
+    <nd ref="6277779786"/>
+    <nd ref="6277779787"/>
+    <nd ref="6277779788"/>
+    <nd ref="6277779789"/>
+    <nd ref="6277779790"/>
+    <nd ref="6277779791"/>
+    <nd ref="6277779792"/>
+    <nd ref="6277779583"/>
+  </way>
+
+</osm>
